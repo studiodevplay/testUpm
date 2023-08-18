@@ -5,7 +5,7 @@ using UnityEngine;
 public class MUnityDataSendBridge
 {
     /// <summary>
-	/// /test
+	/// /test111
 	/// </summary>
     private static MUnityDataSendBridge _instance = new MUnityDataSendBridge();
     private readonly AndroidJavaObject _mUnityDataReceiver;
