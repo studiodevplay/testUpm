@@ -1,0 +1,8 @@
+{
+	"name": "mtg-unity-plugin",
+	"displayName": "mtg",
+	"description": "mtg Unity plugin strict mode",
+	"version": "1.0.0",
+	"unity": "2021.3.24",
+	"license": "MIT"
+  }
